@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+section {
+  height: 100vh;
+}
+
+
+.banner {
+
+  color: aliceblue;
+  background-image: url("https://cdn.pixabay.com/photo/2020/10/21/07/56/data-5672358_1280.jpg");
+  background-size: cover;
+}
